@@ -55,7 +55,7 @@ while True:
         process.bankbalance()
 
     elif option==4:
-        print("Thaking yoy!...")
+        print("Thaking you!...")
         break
 
     else:
